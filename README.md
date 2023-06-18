@@ -11,5 +11,5 @@ Clone the repo
 
 ## check out this project
 
-[Go to Survey Form](https://sunita-mamgain.github.io/Tribute-page/)
+[Go to Tribute Page](https://sunita-mamgain.github.io/Tribute-page/)
 
